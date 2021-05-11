@@ -52,7 +52,7 @@ public class DataProcessor {
                 }
             }
         }
-        System.out.println("The list of excellent students: " + set);
+        System.out.println("\nThe list of excellent students: " + set + "\n");
         return set;
     }
     
